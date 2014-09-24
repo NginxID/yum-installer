@@ -37,6 +37,6 @@ curl -sL http://centminmod.com/installer.sh | bash
 
 Jika Anda menggunakan reverse proxy atau layanan proxy seperti Cloudflare, Incapsula, Google PageSpeed, Varnish Cache di depan server web Nginx. Anda harus benar untuk menginstal Nginx via HttpRealIpModule. Anda dapat menemukan panduan link pada halaman [Nginx Konfigurasi](http://centminmod.com/nginx_configure.html) atau langsung [di sini](http://centminmod.com/nginx_configure_cloudflare.html).
 
-Tak lupa juga untuk membaca README versi resmi dari centminmod [disini](https://github.com/NginxID/yum-installer/blob/master/readme-en.md)
+Tak lupa juga untuk membaca README versi resmi dari centminmod [disini](https://github.com/NginxID/yum-installer/blob/master/readme-en.md#readme)
 
 Selengkapnya anda bisa mengkonfigurasi Nginx anda lewat website centminmod resminya [disini](http://centminmod.com/)
